@@ -28,11 +28,11 @@ hs_err_pid*
 **/.idea
 **/.gitignore
 
-# Ficheros NetBeans
+# Ficheros IDE NetBeans
 **/nb-configuration.xml
 **/nbactions.xml
 
-# Ficheros Eclipse
+# Ficheros EIDE clipse
 **/.metadata/
 **/bin/
 **/tmp/
