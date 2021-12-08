@@ -1,3 +1,4 @@
+#DEFAULT GITIGNORE FOR JAVA PROJECTS
 # Compiled class file
 *.class
 **/target/
